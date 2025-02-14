@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[← Previous Week](./2025-W07.md) | Week of February 17 - February 21, 2025 (Week 7) | [Next Week →](./2025-W09.md)
+[← Previous Week](/past/2025-W07.md) | Week of February 17 - February 21, 2025 (Week 7) | [Next Week →](/future/2025-W09.md)
 
-[Jump to Current Week](/README.md) | [View All Weeks](./calendar-index.md)
+[Jump to Current Week](/README.md) | [View All Weeks](/calendar-index.md)
 </div>
 
 > 🟢 Available | 🟡 Tentative | 🔴 Busy 
@@ -36,8 +36,8 @@
 - 🟡 Tentative: Possibly available
 
 ### 🗓️ Quick Links
-- [Add to Calendar](./calendar.ics)
-- [View Month Overview](./2025-02.md)
-- [Booking Guidelines](./booking-guidelines.md)
+- [Add to Calendar](/calendar.ics)
+- [View Month Overview](/2025-02.md)
+- [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-02-14 16:29 UTC
+### 🔄 Last Updated: 2025-02-14 16:40 UTC
