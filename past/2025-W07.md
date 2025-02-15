@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[← Previous Week](/past/2025-W07.md) | Week of February 17 - February 21, 2025 (Week 7) | [Next Week →](/future/2025-W09.md)
+[← Previous Week](/past/2025-W06.md) | Week of February 10 - February 14, 2025 (Week 7) | [Next Week →](/future/2025-W08.md)
 
 [Jump to Current Week](/README.md) | [View All Weeks](/calendar-index.md)
 </div>
@@ -30,14 +30,13 @@
 
 ---
 ### 📝 Legend
-- All times are in UTC (UTC+0)
+- All times are in America/Boise (UTC-7)
 - 🟢 Available: Click to schedule a meeting
 - 🔴 Busy: Scheduled meeting or event
 - 🟡 Tentative: Possibly available
 
 ### 🗓️ Quick Links
 - [Add to Calendar](/calendar.ics)
-- [View Month Overview](/2025-02.md)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-02-15 06:14 UTC
+### 🔄 Last Updated: 2025-02-15 00:43 MST
