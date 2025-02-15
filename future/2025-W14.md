@@ -56,4 +56,4 @@
 - [Add to Calendar](/calendar.ics)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-02-15 05:57 UTC
+### 🔄 Last Updated: 2025-02-15 06:00 UTC
