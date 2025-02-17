@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[← Previous Week](/past/2025-W06.md) | Week of February 10 - February 14, 2025 (Week 7) | [Next Week →](/future/2025-W08.md)
+[← Previous Week](/past/2025-W06.md) | Week of February 10 - February 14, 2025 (Week 7) | [Next Week →](/past/2025-W08.md)
 
 [Jump to Current Week](/README.md) | [View All Weeks](/calendar-index.md)
 </div>
@@ -39,4 +39,4 @@
 - [Add to Calendar](/calendar.ics)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-02-16 07:09 MST
+### 🔄 Last Updated: 2025-02-16 22:45 MST
