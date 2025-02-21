@@ -23,8 +23,8 @@
 | 1:30 PM - 2:00 PM | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) |
 | 2:00 PM - 2:30 PM | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) | 🔴 Busy | 🔴 Busy |
 | 2:30 PM - 3:00 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🔴 Busy |
-| 3:00 PM - 3:30 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) |
-| 3:30 PM - 4:00 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) |
+| 3:00 PM - 3:30 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) | 🔴 Busy |
+| 3:30 PM - 4:00 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🔴 Busy | 🟢 [Available](https://cal.com) | 🔴 Busy |
 | 4:00 PM - 4:30 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🔴 Busy |
 | 4:30 PM - 5:00 PM | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) | 🟢 [Available](https://cal.com) |
 
@@ -39,4 +39,4 @@
 - [Add to Calendar](/calendar.ics)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-02-21 10:00 MST
+### 🔄 Last Updated: 2025-02-21 10:30 MST
