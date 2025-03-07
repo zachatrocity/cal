@@ -39,4 +39,4 @@
 - [Add to Calendar](/calendar.ics)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-03-06 22:30 MST
+### 🔄 Last Updated: 2025-03-06 23:00 MST
