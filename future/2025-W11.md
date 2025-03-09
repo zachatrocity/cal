@@ -30,7 +30,7 @@
 
 ---
 ### 📝 Legend
-- All times are in America/Boise (UTC-7)
+- All times are in America/Boise (UTC-6)
 - 🟢 Available: Click to schedule a meeting
 - 🔴 Busy: Scheduled meeting or event
 - 🟡 Tentative: Possibly available
@@ -39,4 +39,4 @@
 - [Add to Calendar](/calendar.ics)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-03-09 01:30 MST
+### 🔄 Last Updated: 2025-03-09 03:00 MDT
