@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[← Previous Week](/past/2025-W09.md) | Week of March 3 - March 7, 2025 (Week 10) | [Next Week →](/future/2025-W11.md)
+[← Previous Week](/past/2025-W09.md) | Week of March 3 - March 7, 2025 (Week 10) | [Next Week →](/past/2025-W11.md)
 
 [Jump to Current Week](/README.md) | [View All Weeks](/calendar-index.md)
 </div>
@@ -39,4 +39,4 @@
 - [Add to Calendar](/calendar.ics)
 - [Booking Guidelines](/booking-guidelines.md)
 
-### 🔄 Last Updated: 2025-03-09 17:30 MDT
+### 🔄 Last Updated: 2025-03-09 18:00 MDT
